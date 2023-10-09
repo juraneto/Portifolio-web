@@ -15,7 +15,7 @@
         <div class="interface">
             <div class="logo">
                 <a href="2">
-                    <img src="portifolio/images/logo.png" alt="logo">
+                    <img src="images/logo.png" alt="logo">
                 </a>
             </div>
             <nav class="menu-desktop">
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                     <div class="img-topo-site">
-                        <img src="portifolio/images/IMG_9883.JPG" alt="Eu" width="30%" height="70%">
+                        <img src="images/IMG_9883.JPG" alt="Eu" width="30%" height="70%">
                     </div>
                 </div>
             </div>
@@ -88,6 +88,46 @@
                 </div>
             </div>
         </section>
+        <section class=sobre>
+            <div class="interface">
+                <div class="flex">
+                    <div class="img-sobre">
+                        <img src="images/BMLTE6428.JPG" alt="" width="80%" height="65%">
+                    </div>
+                    <div class="txt-sobre">
+                        <h2>
+                        PRAZER,
+                        SOU JURANDIR CAVALCANTI.
+                        </h2>
+                        <p>Sou estudante de ADS na UFC de Itapajé, estou no 5° periodo do curso e sei conhecimentos previos sobre programação.
+                        </p>
+                        <div class="btn-social">
+                            <a href="https://youtube.com/@juranetocavalcanti9062?si=0B0GG-uDSH01w9GU">
+                                <button>
+                                    <i class="bi bi-youtube"></i>
+                                </button>
+                            </a>    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="portifolio">
+            <div class="interface">
+                <h2>
+                    MEU PORTIFOLIO
+                </h2>
+                <div class="flex">
+                    <div class="img-port">
+                    </div>
+                    <div class="img-port">
+                    </div>
+                    <div class="img-port">
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 </body>
 </html>
+
